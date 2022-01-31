@@ -1,0 +1,3 @@
+chmod 777 pycdc pycdas
+mv pycdc $PREFIX/bin
+mv pycdas $PREFIX/bin
